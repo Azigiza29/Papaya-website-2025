@@ -549,14 +549,7 @@ footer span{
 
 
 /* privacy policy*/
-body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
+
         h1 {
             color: #e74c3c;
             text-align: center;
@@ -578,12 +571,15 @@ body {
             border-left: 4px solid #e74c3c;
             margin-top: 20px;
         }
-        .note {
-            font-size: 0.9em;
-            font-style: italic;
-            margin-top: 40px;
-            padding-top: 10px;
-            border-top: 1px dashed #ccc;
+
+        privacy {
+            padding: 30px;
+        }
+
+        privacy a {
+            color: beige;
+            text-decoration: none;
+            
         }
 /*privacy center End*/
 /* Responsiveness */
