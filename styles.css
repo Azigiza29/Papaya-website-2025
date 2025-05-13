@@ -584,6 +584,7 @@ footer span{
     background-position: center;
     background-size: cover;
     margin-bottom: 30px;
+    text-align: canter;
    
 }
 
@@ -620,9 +621,9 @@ footer span{
 }
 
 .hero button{
-/*     position: absolute; */
+    position: absolute;
     margin-top: 25px;
-    margin-left: -60px;
+    left: 5%;
     width: 120px;
     height: 40px;
     font-size: 16px;
