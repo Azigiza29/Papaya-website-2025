@@ -4,39 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - Papaye Fast Food Ltd</title>
-    <style>
-       
-        h1 {
-            color: #e74c3c;
-            text-align: center;
-            border-bottom: 2px solid #e74c3c;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #e74c3c;
-            margin-top: 25px;
-        }
-        .last-updated {
-            text-align: right;
-            font-style: italic;
-            margin-bottom: 30px;
-        }
-        .contact-info {
-            background-color: #f9f9f9;
-            padding: 15px;
-            border-left: 4px solid #e74c3c;
-            margin-top: 20px;
-        }
-        .note {
-            font-size: 0.9em;
-            font-style: italic;
-            margin-top: 40px;
-            padding-top: 10px;
-            border-top: 1px dashed #ccc;
-        }
-    </style>
+  
 </head>
 <body>
+
     <h1>Privacy Policy for Papaye Fast Food Ltd</h1>
     <div class="last-updated"><strong>Last Updated:</strong> [Insert Date]</div>
 
