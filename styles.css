@@ -549,7 +549,9 @@ footer span{
 
 
 /* privacy policy*/
-
+        .privacy-body {
+            paddling: 10px;
+        }
         h1 {
             color: #e74c3c;
             text-align: center;
