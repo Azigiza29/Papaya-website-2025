@@ -18,6 +18,8 @@ h1, h2, h3{
 body{
     background: #adadad;
     font-size: 12px;
+    box-sizing: border-box;
+    font-family: sans-serif, arial, serif;
 }
 
 header{
@@ -184,8 +186,8 @@ ul li:hover ul.dropdn{
 }
 
 .home-text{
-    flex: 0 0 42%;
-    line-height: 25px;
+    flex: 0 0 38%;
+    line-height: 30px;
     letter-spacing: 1.2px;
     border-radius: 8px;
     padding: 8px;
@@ -426,8 +428,8 @@ legend{
 
 .form-section button{
     padding: 15px;
-    margin-left: 25%;
-    height: 45px;
+    margin-left: 20%;
+    height: 30px;
     margin-bottom: 30px;
     margin-top: 30px;
     background-color: #4772ff;
@@ -560,10 +562,7 @@ footer span{
 /*             border-bottom: 2px solid #e74c3c; */
             padding-bottom: 10px;
         }
-        h2 {
-            color: #e74c3c;
-            margin-top: 25px;
-        }
+        
         .last-updated {
             text-align: right;
             font-style: italic;
@@ -583,6 +582,7 @@ footer span{
         .privacy a {
             color: beige;
             text-decoration: none;
+            text-align: center;
             
         }
 /*privacy center End*/
