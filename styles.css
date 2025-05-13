@@ -488,9 +488,9 @@ legend{
 /* Abut Section End */
 footer{
     position: relative;
-    display: flex; 
+/*     display: flex;  */
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     margin-top: 40px;
     background-color: #00000099;
@@ -516,7 +516,7 @@ footer{
     display: inline-block;
     padding: 10px;
     margin-left: 20%;
-    box-shadow: 0 4px 18px;
+/*     box-shadow: 0 4px 18px; */
 }
 
 .footer-container h3{
@@ -550,7 +550,7 @@ footer span{
 
 /* privacy policy*/
         .privacy-body {
-            paddling: 10px;
+            margin: 20px;
         }
         h1 {
             color: #e74c3c;
