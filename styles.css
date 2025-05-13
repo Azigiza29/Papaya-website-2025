@@ -547,6 +547,45 @@ footer span{
     background-color: #ff0000;
 }
 
+
+/* privacy policy*/
+body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #e74c3c;
+            text-align: center;
+            border-bottom: 2px solid #e74c3c;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #e74c3c;
+            margin-top: 25px;
+        }
+        .last-updated {
+            text-align: right;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .contact-info {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-left: 4px solid #e74c3c;
+            margin-top: 20px;
+        }
+        .note {
+            font-size: 0.9em;
+            font-style: italic;
+            margin-top: 40px;
+            padding-top: 10px;
+            border-top: 1px dashed #ccc;
+        }
+/*privacy center End*/
 /* Responsiveness */
 @media (max-width: 768px) {
    
