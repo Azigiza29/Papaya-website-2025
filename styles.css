@@ -91,7 +91,7 @@ ul li:hover ul.dropdn{
 .hero{
     position: relative;
     width:100%;
-    height: 50vh;
+    height: 30vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
