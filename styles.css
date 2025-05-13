@@ -18,6 +18,7 @@ h1, h2, h3{
 body{
     background: #adadad;
     font-size: 12px;
+    line-height: 25px;
 }
 
 header{
@@ -780,8 +781,8 @@ footer span{
 
 footer{
     position: relative;
-    display: flex;
-    justify-content: space-around;
+/*     display: flex; */
+    justify-content: center;
     align-items: center;
 }
 
@@ -789,7 +790,7 @@ footer{
     flex: 1 1 100%;
     flex-wrap: wrap;
     padding: 10px;
-    box-shadow: 0 4px 18px;
+/*     box-shadow: 0 4px 18px; */
     margin: 5px;
 
 }
