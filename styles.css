@@ -620,7 +620,7 @@ footer span{
     font-weight: 300;
 }
 
-.hero button{
+/* .hero button{
     position: absolute;
     margin-top: 25px;
     left: 5%;
@@ -633,7 +633,7 @@ footer span{
     border: none;
     border-radius: 8px;
     cursor: pointer;
-}
+} */
 
 .hero-container a{
     text-decoration: none;
