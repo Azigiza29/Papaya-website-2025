@@ -12,14 +12,18 @@ p{
 
 h1, h2, h3{
     font-family: 'Times New Roman', Times, sans-serif;
-    font-size: 20px;
-}
+    color: #e74c3c;
+    text-align: center;
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 10px;
+    }
 
 body{
-    background: #adadad;
-    font-size: 12px;
+    background: beige;
     box-sizing: border-box;
     font-family: sans-serif, arial, serif;
+    line-height: 30px;
+    word-spacing: 1.2px;
 }
 
 header{
@@ -555,12 +559,9 @@ footer span{
 /* privacy policy*/
         .privacy-body {
             margin: 20px;
-        }
-        h1 {
-            color: #e74c3c;
-            text-align: center;
-/*             border-bottom: 2px solid #e74c3c; */
-            padding-bottom: 10px;
+            background: beige;
+            line-height: 30px;
+            word-spacing: 1.2px;
         }
         
         .last-updated {
@@ -576,7 +577,7 @@ footer span{
         }
 
         .privacy {
-            padding: 30px;
+            margin: 30px; 
         }
 
         .privacy a {
